@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Script MT Bold', 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 
 hr {
@@ -35,7 +35,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Cursive', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .bg-primary {
@@ -47,8 +47,9 @@ h6 {
 }
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(0, 0, 0, 0.7);
 }
+
 
 section {
   padding: 8rem 0;
@@ -234,7 +235,7 @@ header.masthead p {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(240, 95, 64, 0.9);
+  background: rgb(77, 159, 226);
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
